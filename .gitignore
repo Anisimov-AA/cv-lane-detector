@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+# output videos are big and get recreated by the script
+output/*.mp4
